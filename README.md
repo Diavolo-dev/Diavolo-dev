@@ -9,7 +9,7 @@ src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75
 
 - 🌱 I’m currently learning **Flutter Developer**
 
-- 📫 How to reach me **miladrami.dev@gmail.com**
+- 📫 How to reach me **linducdcd@gmail.com**
 
 
 - ⚡ Fun fact: **Watching Movies and Reading Books are the things that i enjoy. I love Sci-fi, Fantasy, Thriller and Crime Books. I'm a casual gamer and Playing video games is usually a hobby i enjoy alongside other interests and activities.**
